@@ -35,7 +35,6 @@ Decentralization and tokenization has a lot to offer to the chicken society, and
 
 ## Links
 
-* [Website](https://www.chikin.space)
+* [Website](https://www.chikin.run)
 * [Twitter](https://twitter.com/ChikinDev)
-* [Telegram](chikin.space)
 * [ChikinWallet repository (github)](https://github.com/ChikinDeveloper/ChikinWallet)
